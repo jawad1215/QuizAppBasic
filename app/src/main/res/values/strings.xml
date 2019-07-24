@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">QuizApp Basic</string>
+    <string name="question1">Who is founder of Pakistan ? </string>
+    <string name="question2">Capital of Pakistan is ? </string>
+    <string name="question3">Currency of Pakistan is ? </string>
+    <string name="question4">National game of Pakistan is ? </string>
+    <string name="question5">National animal of Pakistan is ? </string>
+    <string name="question6">National bird of Pakistan is ? </string>
+    <string name="question7">National language is ? </string>
+    <string name="question8">Official language/languages? </string>
+    <string name="question9">National poet is ? </string>
+    <string name="question10">Highest Peak is ? </string>
+
+</resources>
